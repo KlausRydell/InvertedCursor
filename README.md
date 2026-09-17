@@ -37,11 +37,11 @@ The component defaults directly to `M_InvertedCursor`, with the included center 
 
 Expand **Cursor Style** to adjust:
 
-- **Center** — mask, size, scale, position, and visibility
-- **Color** — Cursor Color, Use Custom Color, and Allow Center Color
-- **Bloom** — shared spread and minimum visual spread
-- **Arms** — arm mask, size, and individual arm visibility
-- **Circle** — visibility, scale, and feathering
+- **Center**: mask, size, scale, position, and visibility
+- **Color**: Cursor Color, Use Custom Color, and Allow Center Color
+- **Bloom**: shared spread and minimum visual spread
+- **Arms**: arm mask, size, and individual arm visibility
+- **Circle**: visibility, scale, and feathering
 
 Save different appearances in **Cursor Style Presets** and switch between them with **Apply Cursor Style Preset**. Preset masks left unassigned inherit the component's current masks.
 
